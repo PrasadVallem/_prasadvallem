@@ -17,17 +17,11 @@ nothing
 ## HIGH LEVEL REQUIREMENTS
 
 |ID   |        DESCRIPTION    |       STATUS|
-
+|----------------|-------------------------------|-----------------------------|
 |HR_01       | Sensing the Rainfall and send the data Microcontroller board to turn on the Wiper Motor|'Implemented'|
-
 |HR_02       | Getting the Adequate Power to turn ON Micro Controller and Wiper Motor once Rainfall Sensor turned on|'Implemented'|
-
 |HR_03      |  Attaching LED Red , Blue , Green , Orange |'Implemented'|
-
 |HR_04       | Turning on Red LED when there is no Rain/snow/dust  |'Implemented'|
-
 |HR_05       | Turning on Blue , Green and Orange LED's When the sesnor sense and sends the data to Micro Controller|'Implemented'|
-
 |HR_06        |Calculating the Gauge of rainfall and setting the frequency of LED's Connected to Wiper Motor accordingly|'Implemented'|
-
 |HR_07       | Setting the time for LEDS's which are engaged with Wiper Control according to Rainfall|'Implemented'|
