@@ -13,3 +13,21 @@ I'll meet you over there, can't wait to get started!
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 uwedgkuhcs
 nothing
+
+## HIGH LEVEL REQUIREMENTS
+
+|ID   |        DESCRIPTION    |       STATUS|
+
+|HR_01       | Sensing the Rainfall and send the data Microcontroller board to turn on the Wiper Motor|'Implemented'|
+
+|HR_02       | Getting the Adequate Power to turn ON Micro Controller and Wiper Motor once Rainfall Sensor turned on|'Implemented'|
+
+|HR_03      |  Attaching LED Red , Blue , Green , Orange |'Implemented'|
+
+|HR_04       | Turning on Red LED when there is no Rain/snow/dust  |'Implemented'|
+
+|HR_05       | Turning on Blue , Green and Orange LED's When the sesnor sense and sends the data to Micro Controller|'Implemented'|
+
+|HR_06        |Calculating the Gauge of rainfall and setting the frequency of LED's Connected to Wiper Motor accordingly|'Implemented'|
+
+|HR_07       | Setting the time for LEDS's which are engaged with Wiper Control according to Rainfall|'Implemented'|
